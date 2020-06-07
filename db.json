@@ -2,6 +2,7 @@
   "quizpages": [
     {
       "id": "1",
+      "title": "Härma Walls",
       "instruction": {
         "title": "Welcome to Tartu – university central!",
         "instructionsArray": [
@@ -11,16 +12,19 @@
           "When you reach the square, see if you can find the fountain and head towards it."
         ]
       },
-      "questions": "What is propped up against the post near the fountain?",
-      "availableAnswers": [
-        { "text": "Combine harvester" },
-        { "text": "Bicycle", "correct": true },
-        { "text": "Motorcycle" }
-      ],
-      "googleMapsURL": ""
+      "question": {
+        "quest": "What is propped up against the post near the fountain?",
+        "availableAnswers": [
+          { "text": "Combine harvester" },
+          { "text": "Bicycle", "correct": true },
+          { "text": "Motorcycle" }
+        ],
+        "googleMapsURL": ""
+      }
     },
     {
       "id": "2",
+      "title": "Härma Walls",
       "instruction": {
         "title": "Welcome to Tartu – university central!",
         "instructionsArray": [
@@ -30,16 +34,19 @@
           "When you reach the square, see if you can find the fountain and head towards it."
         ]
       },
-      "questions": "What is propped up against the post near the fountain?",
-      "availableAnswers": [
-        { "text": "Combine harvester" },
-        { "text": "Bicycle", "correct": true },
-        { "text": "Motorcycle" }
-      ],
-      "googleMapsURL": ""
+      "question": {
+        "quest": "What is propped up against the post near the fountain?",
+        "availableAnswers": [
+          { "text": "Combine harvester" },
+          { "text": "Bicycle", "correct": true },
+          { "text": "Motorcycle" }
+        ],
+        "googleMapsURL": ""
+      }
     },
     {
       "id": "3",
+      "title": "Härma Walls",
       "instruction": {
         "title": "Welcome to Tartu – university central!",
         "instructionsArray": [
@@ -49,16 +56,19 @@
           "When you reach the square, see if you can find the fountain and head towards it."
         ]
       },
-      "questions": "What is propped up against the post near the fountain?",
-      "availableAnswers": [
-        { "text": "Combine harvester" },
-        { "text": "Bicycle", "correct": true },
-        { "text": "Motorcycle" }
-      ],
-      "googleMapsURL": ""
+      "question": {
+        "quest": "What is propped up against the post near the fountain?",
+        "availableAnswers": [
+          { "text": "Combine harvester" },
+          { "text": "Bicycle", "correct": true },
+          { "text": "Motorcycle" }
+        ],
+        "googleMapsURL": ""
+      }
     },
     {
-      "firstName": "Brad",
+      "id": "4",
+      "title": "Härma Walls",
       "instruction": {
         "title": "Welcome to Tartu – university central!",
         "instructionsArray": [
@@ -68,13 +78,37 @@
           "When you reach the square, see if you can find the fountain and head towards it."
         ]
       },
-      "questions": "What is propped up against the post near the fountain?",
-      "availableAnswers": [
-        { "text": "Combine harvester" },
-        { "text": "Bicycle", "correct": true },
-        { "text": "Motorcycle" }
-      ],
-      "googleMapsURL": ""
+      "question": {
+        "quest": "What is propped up against the post near the fountain?",
+        "availableAnswers": [
+          { "text": "Combine harvester" },
+          { "text": "Bicycle", "correct": true },
+          { "text": "Motorcycle" }
+        ],
+        "googleMapsURL": ""
+      }
+    },
+    {
+      "id": "5",
+      "title": "Härma Walls",
+      "instruction": {
+        "title": "Welcome to Tartu – university central!",
+        "instructionsArray": [
+          "Make your way along the street where you see the ‘Athena’ sign.",
+          "Go past the red chairs and continue on to the intersection.",
+          "Turn right, head in the direction of the Apple logo and continue to the end of the street.",
+          "When you reach the square, see if you can find the fountain and head towards it."
+        ]
+      },
+      "question": {
+        "quest": "What is propped up against the post near the fountain?",
+        "availableAnswers": [
+          { "text": "Combine harvester" },
+          { "text": "Bicycle", "correct": true },
+          { "text": "Motorcycle" }
+        ],
+        "googleMapsURL": ""
+      }
     }
   ]
 }
